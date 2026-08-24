@@ -1,7 +1,479 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepMind Control Suite",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115744122,
+            "language": "Python",
+            "last_commit": "2026-08-20T14:19:29Z",
+            "owner": "google-deepmind",
+            "repo": "dm_control",
+            "stars": 4670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind Control Manipulation",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115744122,
+            "language": "Python",
+            "last_commit": "2026-08-20T14:19:29Z",
+            "owner": "google-deepmind",
+            "repo": "dm_control",
+            "stars": 4670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind Control Generalization Benchmark 2",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 806835327,
+            "language": "Python",
+            "last_commit": "2025-07-21T03:04:28Z",
+            "owner": "aalmuzairee",
+            "repo": "dmcgb2",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meta-World",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 207383121,
+            "language": "Python",
+            "last_commit": "2026-08-10T03:57:49Z",
+            "owner": "Farama-Foundation",
+            "repo": "Metaworld",
+            "stars": 1870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboSuite",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154626012,
+            "language": "Python",
+            "last_commit": "2026-07-11T23:47:48Z",
+            "owner": "ARISE-Initiative",
+            "repo": "robosuite",
+            "stars": 2573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboCasa",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 799171422,
+            "language": "Python",
+            "last_commit": "2026-08-21T20:45:34Z",
+            "owner": "robocasa",
+            "repo": "robocasa",
+            "stars": 1667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIBERO",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625323941,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-15T12:14:04Z",
+            "owner": "Lifelong-Robot-Learning",
+            "repo": "LIBERO",
+            "stars": 2230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboHive",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140010231,
+            "language": "Python",
+            "last_commit": "2026-08-14T15:04:00Z",
+            "owner": "vikashplus",
+            "repo": "robohive",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboDesk",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 339572477,
+            "language": "Python",
+            "last_commit": "2022-07-08T19:04:22Z",
+            "owner": "google-research",
+            "repo": "robodesk",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BiGym",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1267255710,
+            "language": null,
+            "last_commit": "2026-05-27T14:25:28Z",
+            "owner": "chernyadev",
+            "repo": "bigym",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HumanoidBench",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 774058576,
+            "language": "Python",
+            "last_commit": "2025-09-18T04:32:50Z",
+            "owner": "carlosferrazza",
+            "repo": "humanoid-bench",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocoMuJoCo",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 657267150,
+            "language": "Python",
+            "last_commit": "2026-08-22T19:06:32Z",
+            "owner": "robfiras",
+            "repo": "loco-mujoco",
+            "stars": 1453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboPianist",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 615527047,
+            "language": "Python",
+            "last_commit": "2024-11-02T22:36:31Z",
+            "owner": "google-research",
+            "repo": "robopianist",
+            "stars": 736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DexMV",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 511397976,
+            "language": "Python",
+            "last_commit": "2023-09-29T22:23:30Z",
+            "owner": "yzqin",
+            "repo": "dexmv-sim",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safety-Gymnasium",
+          "description": "MuJoCo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 593935677,
+            "language": "Python",
+            "last_commit": "2026-07-21T04:04:21Z",
+            "owner": "PKU-Alignment",
+            "repo": "safety-gymnasium",
+            "stars": 579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ManiSkill",
+          "description": "SAPIEN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520357130,
+            "language": "Python",
+            "last_commit": "2026-08-04T16:38:18Z",
+            "owner": "mani-skill",
+            "repo": "ManiSkill",
+            "stars": 3256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DexArt",
+          "description": "SAPIEN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629344799,
+            "language": "Python",
+            "last_commit": "2026-05-11T06:13:09Z",
+            "owner": "Kami-code",
+            "repo": "dexart-release",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DexDeform",
+          "description": "PlasticineLab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 606644476,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-25T08:21:01Z",
+            "owner": "sizhe-li",
+            "repo": "DexDeform",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLBench",
+          "description": "CoppeliaSim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211181267,
+            "language": "Python",
+            "last_commit": "2025-01-25T13:13:19Z",
+            "owner": "stepjam",
+            "repo": "RLBench",
+            "stars": 1812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robot Colosseum",
+          "description": "CoppeliaSim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 758634813,
+            "language": "Python",
+            "last_commit": "2025-03-03T03:21:23Z",
+            "owner": "robot-colosseum",
+            "repo": "robot-colosseum",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ravens",
+          "description": "PyBullet",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 321489256,
+            "language": "Python",
+            "last_commit": "2024-07-30T21:24:12Z",
+            "owner": "google-research",
+            "repo": "ravens",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CALVIN",
+          "description": "PyBullet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 387839793,
+            "language": "Python",
+            "last_commit": "2025-09-08T08:52:01Z",
+            "owner": "mees",
+            "repo": "calvin",
+            "stars": 972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VIMA-Bench",
+          "description": "PyBullet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 547082219,
+            "language": "Python",
+            "last_commit": "2023-09-26T05:35:36Z",
+            "owner": "vimalabs",
+            "repo": "VIMABench",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brax Control Suite",
+          "description": "Brax",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 373310764,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-06T15:04:10Z",
+            "owner": "google",
+            "repo": "brax",
+            "stars": 3223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NVIDIA Isaac Lab",
+          "description": "Isaac Sim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 567038244,
+            "language": "Python",
+            "last_commit": "2026-08-24T08:45:53Z",
+            "owner": "isaac-sim",
+            "repo": "IsaacLab",
+            "stars": 7947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRANSIC-Envs",
+          "description": "Isaac Gym",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 789199707,
+            "language": "Python",
+            "last_commit": "2024-09-05T23:01:13Z",
+            "owner": "transic-robot",
+            "repo": "transic-envs",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FurnitureBench",
+          "description": "Isaac Gym",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 637992839,
+            "language": "Python",
+            "last_commit": "2025-03-31T07:03:10Z",
+            "owner": "clvrai",
+            "repo": "furniture-bench",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NVIDIA Isaac Gym",
+          "description": "Isaac Gym",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 400365945,
+            "language": "Python",
+            "last_commit": "2024-10-26T15:43:53Z",
+            "owner": "isaac-sim",
+            "repo": "IsaacGymEnvs",
+            "stars": 2952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixMC",
+          "description": "Isaac Gym",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469528003,
+            "language": "Python",
+            "last_commit": "2023-04-01T22:22:09Z",
+            "owner": "ir413",
+            "repo": "mvp",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoftGym",
+          "description": "NVIDIA FleX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 213077829,
+            "language": "C++",
+            "last_commit": "2022-11-14T16:33:06Z",
+            "owner": "Xingyu-Lin",
+            "repo": "softgym",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniGibson",
+          "description": "NVIDIA Omniverse",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 439439857,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:21:47Z",
+            "owner": "StanfordVL",
+            "repo": "BEHAVIOR-1K",
+            "stars": 1650
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T14:10:21.604Z",
+    "last_updated": "2026-08-24T14:38:57.178Z",
     "original_repository": "jonzamora/awesome-robot-learning-envs",
     "original_repository_id": 786042661,
     "original_repository_sha": "bc113a214a68b671b4b9c192953e43a79cdb7070",
