@@ -90,7 +90,7 @@
             "last_commit": "2026-08-21T20:45:34Z",
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1679
+            "stars": 1681
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2025-03-15T12:14:04Z",
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2242
+            "stars": 2243
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-06T15:04:10Z",
             "owner": "google",
             "repo": "brax",
-            "stars": 3224
+            "stars": 3225
           }
         },
         {
@@ -372,10 +372,10 @@
             "archived": false,
             "id": 567038244,
             "language": "Python",
-            "last_commit": "2026-08-27T11:24:58Z",
+            "last_commit": "2026-08-27T19:03:00Z",
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 7971
+            "stars": 7977
           }
         },
         {
@@ -462,10 +462,10 @@
             "archived": false,
             "id": 439439857,
             "language": "Python",
-            "last_commit": "2026-08-27T02:55:08Z",
+            "last_commit": "2026-08-27T20:36:18Z",
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1661
+            "stars": 1662
           }
         }
       ],
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:20.496Z",
+    "last_updated": "2026-08-27T23:14:57.895Z",
     "original_repository_info": {
       "archived": false,
       "id": 786042661,
