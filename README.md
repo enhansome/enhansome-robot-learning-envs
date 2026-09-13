@@ -8,13 +8,13 @@ Feel Free to ⭐️ this repo for future updates 📲
 
 |                                                                             Benchmark                                                                            |     Simulator    |                             Visualization                            |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :------------------------------------------------------------------: |
-|                      [DeepMind Control Suite](https://github.com/google-deepmind/dm_control) ⭐ 4,689 \| 🐛 128 \| 🌐 Python \| 📅 2026-09-09                     |      MuJoCo      |        ![DeepMind Control Suite](assets/dm_control-suite.png)        |
-| [DeepMind Control Manipulation](https://github.com/google-deepmind/dm_control/tree/main/dm_control/manipulation) ⭐ 4,689 \| 🐛 128 \| 🌐 Python \| 📅 2026-09-09 |      MuJoCo      | ![DeepMind Control Manipulation](assets/dm_control-manipulation.png) |
+|                      [DeepMind Control Suite](https://github.com/google-deepmind/dm_control) ⭐ 4,690 \| 🐛 129 \| 🌐 Python \| 📅 2026-09-09                     |      MuJoCo      |        ![DeepMind Control Suite](assets/dm_control-suite.png)        |
+| [DeepMind Control Manipulation](https://github.com/google-deepmind/dm_control/tree/main/dm_control/manipulation) ⭐ 4,690 \| 🐛 129 \| 🌐 Python \| 📅 2026-09-09 |      MuJoCo      | ![DeepMind Control Manipulation](assets/dm_control-manipulation.png) |
 |                  [DeepMind Control Generalization Benchmark 2](https://github.com/aalmuzairee/dmcgb2) ⭐ 22 \| 🐛 2 \| 🌐 Python \| 📅 2025-07-21                 |      MuJoCo      |   ![DeepMind Control Generalization Benchmark 2](assets/dmcgb2.gif)  |
-|                            [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,880 \| 🐛 16 \| 🌐 Python \| 📅 2026-08-10                           |      MuJoCo      |                 ![Meta-World](assets/meta-world.gif)                 |
-|                            [RoboSuite](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,609 \| 🐛 111 \| 🌐 Python \| 📅 2026-07-11                            |      MuJoCo      |                  ![RoboSuite](assets/robosuite.png)                  |
-|                                  [RoboCasa](https://github.com/robocasa/robocasa) ⭐ 1,720 \| 🐛 57 \| 🌐 Python \| 📅 2026-09-02                                 |      MuJoCo      |                   ![RoboCasa](assets/robocasa.jpeg)                  |
-|                       [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) ⭐ 2,307 \| 🐛 98 \| 🌐 Jupyter Notebook \| 📅 2025-03-15                       |      MuJoCo      |                     ![LIBERO](assets/libero.gif)                     |
+|                            [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,880 \| 🐛 16 \| 🌐 Python \| 📅 2026-09-12                           |      MuJoCo      |                 ![Meta-World](assets/meta-world.gif)                 |
+|                            [RoboSuite](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,610 \| 🐛 111 \| 🌐 Python \| 📅 2026-07-11                            |      MuJoCo      |                  ![RoboSuite](assets/robosuite.png)                  |
+|                                  [RoboCasa](https://github.com/robocasa/robocasa) ⭐ 1,723 \| 🐛 57 \| 🌐 Python \| 📅 2026-09-02                                 |      MuJoCo      |                   ![RoboCasa](assets/robocasa.jpeg)                  |
+|                       [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) ⭐ 2,309 \| 🐛 98 \| 🌐 Jupyter Notebook \| 📅 2025-03-15                       |      MuJoCo      |                     ![LIBERO](assets/libero.gif)                     |
 |                                  [RoboHive](https://github.com/vikashplus/robohive) ⭐ 631 \| 🐛 26 \| 🌐 Python \| 📅 2026-09-08                                 |      MuJoCo      |                   ![RoboHive](assets/robohive.png)                   |
 |                                                [Franka Kitchen](https://robotics.farama.org/envs/franka_kitchen/)                                                |      MuJoCo      |             ![Franka Kitchen](assets/franka-kitchen.gif)             |
 |                                                [RoboDesk](https://github.com/google-research/robodesk) ⚠️ Archived                                               |      MuJoCo      |                   ![RoboDesk](assets/robodesk.gif)                   |
@@ -31,16 +31,16 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                                   [RLBench](https://github.com/stepjam/RLBench) ⭐ 1,817 \| 🐛 93 \| 🌐 Python \| 📅 2025-01-25                                   |    CoppeliaSim   |                    ![RLBench](assets/rlbench.png)                    |
 |                         [Robot Colosseum](https://github.com/robot-colosseum/robot-colosseum) ⭐ 155 \| 🐛 5 \| 🌐 Python \| 📅 2025-03-03                        |    CoppeliaSim   |            ![Robot Colosseum](assets/robot-colosseum.gif)            |
 |                                                  [Ravens](https://github.com/google-research/ravens) ⚠️ Archived                                                 |     PyBullet     |                     ![Ravens](assets/ravens.png)                     |
-|                                       [CALVIN](https://github.com/mees/calvin) ⭐ 986 \| 🐛 52 \| 🌐 Python \| 📅 2025-09-08                                      |     PyBullet     |                     ![CALVIN](assets/calvin.png)                     |
+|                                       [CALVIN](https://github.com/mees/calvin) ⭐ 987 \| 🐛 52 \| 🌐 Python \| 📅 2025-09-08                                      |     PyBullet     |                     ![CALVIN](assets/calvin.png)                     |
 |                                  [VIMA-Bench](https://github.com/vimalabs/VIMABench) ⭐ 327 \| 🐛 8 \| 🌐 Python \| 📅 2023-09-26                                 |     PyBullet     |                  ![VIMA-Bench](assets/vimabench.gif)                 |
-|                          [Brax Control Suite](https://github.com/google/brax) ⭐ 3,229 \| 🐛 109 \| 🌐 Jupyter Notebook \| 📅 2026-09-09                          |       Brax       |                       ![Brax](assets/brax.gif)                       |
-|                             [NVIDIA Isaac Lab](https://github.com/isaac-sim/IsaacLab) ⭐ 8,108 \| 🐛 501 \| 🌐 Python \| 📅 2026-09-12                            |     Isaac Sim    |               ![NVIDIA Isaac Lab](assets/isaaclab.jpg)               |
+|                          [Brax Control Suite](https://github.com/google/brax) ⭐ 3,230 \| 🐛 109 \| 🌐 Jupyter Notebook \| 📅 2026-09-09                          |       Brax       |                       ![Brax](assets/brax.gif)                       |
+|                             [NVIDIA Isaac Lab](https://github.com/isaac-sim/IsaacLab) ⭐ 8,116 \| 🐛 504 \| 🌐 Python \| 📅 2026-09-12                            |     Isaac Sim    |               ![NVIDIA Isaac Lab](assets/isaaclab.jpg)               |
 |                             [TRANSIC-Envs](https://github.com/transic-robot/transic-envs) ⭐ 64 \| 🐛 0 \| 🌐 Python \| 📅 2024-09-05                             |     Isaac Gym    |               ![TRANSIC-Envs](assets/transic-envs.png)               |
 |                             [FurnitureBench](https://github.com/clvrai/furniture-bench) ⭐ 243 \| 🐛 13 \| 🌐 Python \| 📅 2025-03-31                             |     Isaac Gym    |             ![FurnitureBench](assets/furniture-bench.png)            |
 |                                         [NVIDIA Isaac Gym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) ⚠️ Archived                                         |     Isaac Gym    |           ![NVIDIA IsaacGym Benchmark](assets/isaacgym.png)          |
 |                                         [PixMC](https://github.com/ir413/mvp) ⭐ 244 \| 🐛 9 \| 🌐 Python \| 📅 2023-04-01                                        |     Isaac Gym    |                      ![PixMC](assets/pixmc.png)                      |
 |                                    [SoftGym](https://github.com/Xingyu-Lin/softgym) ⭐ 356 \| 🐛 16 \| 🌐 C++ \| 📅 2022-11-14                                    |    NVIDIA FleX   |                    ![SoftGym](assets/softgym.gif)                    |
-|                              [OmniGibson](https://github.com/StanfordVL/OmniGibson) ⭐ 1,689 \| 🐛 311 \| 🌐 Python \| 📅 2026-09-11                              | NVIDIA Omniverse |                 ![OmniGibson](assets/omni-gibson.png)                |
+|                              [OmniGibson](https://github.com/StanfordVL/OmniGibson) ⭐ 1,691 \| 🐛 311 \| 🌐 Python \| 📅 2026-09-11                              | NVIDIA Omniverse |                 ![OmniGibson](assets/omni-gibson.png)                |
 
 ## Notes
 
@@ -50,4 +50,4 @@ Feel Free to ⭐️ this repo for future updates 📲
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
