@@ -19,7 +19,7 @@
             "open_issues": 129,
             "owner": "google-deepmind",
             "repo": "dm_control",
-            "stars": 4694,
+            "stars": 4698,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -48,7 +48,7 @@
             "open_issues": 129,
             "owner": "google-deepmind",
             "repo": "dm_control",
-            "stars": 4694,
+            "stars": 4698,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -102,7 +102,7 @@
             "open_issues": 16,
             "owner": "Farama-Foundation",
             "repo": "Metaworld",
-            "stars": 1882,
+            "stars": 1881,
             "topics": [
               "benchmark-environments",
               "meta-rl",
@@ -155,7 +155,7 @@
             "open_issues": 57,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1735,
+            "stars": 1739,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -181,7 +181,7 @@
             "open_issues": 100,
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2321,
+            "stars": 2323,
             "topics": [
               "benchmark",
               "imitation-learning",
@@ -410,7 +410,7 @@
             "open_issues": 135,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3335,
+            "stars": 3336,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -562,7 +562,7 @@
             "open_issues": 52,
             "owner": "mees",
             "repo": "calvin",
-            "stars": 987,
+            "stars": 986,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -615,7 +615,7 @@
             "open_issues": 110,
             "owner": "google",
             "repo": "brax",
-            "stars": 3236,
+            "stars": 3237,
             "topics": [
               "jax",
               "physics-simulation",
@@ -637,11 +637,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-17T17:24:53Z",
-            "open_issues": 527,
+            "last_commit": "2026-09-18T10:41:53Z",
+            "open_issues": 522,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8155,
+            "stars": 8162,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:45:47.107Z",
+    "last_updated": "2026-09-18T17:17:52.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome and popular robot learning environments",
