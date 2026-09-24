@@ -128,7 +128,7 @@
             "open_issues": 112,
             "owner": "ARISE-Initiative",
             "repo": "robosuite",
-            "stars": 2626,
+            "stars": 2630,
             "topics": [
               "physics-simulation",
               "reinforcement-learning",
@@ -155,7 +155,7 @@
             "open_issues": 59,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1754,
+            "stars": 1758,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -209,7 +209,7 @@
             "open_issues": 25,
             "owner": "vikashplus",
             "repo": "robohive",
-            "stars": 632,
+            "stars": 633,
             "topics": [
               "benchmarks",
               "environments",
@@ -285,7 +285,7 @@
             "open_issues": 26,
             "owner": "carlosferrazza",
             "repo": "humanoid-bench",
-            "stars": 800,
+            "stars": 799,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:59.143Z"
@@ -306,7 +306,7 @@
             "open_issues": 43,
             "owner": "robfiras",
             "repo": "loco-mujoco",
-            "stars": 1465,
+            "stars": 1468,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:59.143Z"
@@ -410,7 +410,7 @@
             "open_issues": 138,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3353,
+            "stars": 3355,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -615,7 +615,7 @@
             "open_issues": 110,
             "owner": "google",
             "repo": "brax",
-            "stars": 3240,
+            "stars": 3241,
             "topics": [
               "jax",
               "physics-simulation",
@@ -637,11 +637,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-23T16:11:27Z",
-            "open_issues": 429,
+            "last_commit": "2026-09-24T17:44:20Z",
+            "open_issues": 419,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8207,
+            "stars": 8218,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -688,7 +688,7 @@
             "open_issues": 13,
             "owner": "clvrai",
             "repo": "furniture-bench",
-            "stars": 244,
+            "stars": 245,
             "topics": [
               "furniture-assembly",
               "reinforcement-learning-environments",
@@ -774,11 +774,11 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T19:44:38Z",
-            "open_issues": 311,
+            "last_commit": "2026-09-24T16:44:32Z",
+            "open_issues": 306,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1720,
+            "stars": 1721,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:59:33.492Z",
+    "last_updated": "2026-09-24T17:59:57.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome and popular robot learning environments",
