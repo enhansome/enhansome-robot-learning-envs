@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T22:01:53Z",
-            "open_issues": 137,
+            "open_issues": 139,
             "owner": "google-deepmind",
             "repo": "dm_control",
             "stars": 4707,
@@ -45,7 +45,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T22:01:53Z",
-            "open_issues": 137,
+            "open_issues": 139,
             "owner": "google-deepmind",
             "repo": "dm_control",
             "stars": 4707,
@@ -155,7 +155,7 @@
             "open_issues": 59,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1773,
+            "stars": 1774,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -181,7 +181,7 @@
             "open_issues": 105,
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2375,
+            "stars": 2378,
             "topics": [
               "benchmark",
               "imitation-learning",
@@ -410,7 +410,7 @@
             "open_issues": 140,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3372,
+            "stars": 3373,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -615,7 +615,7 @@
             "open_issues": 113,
             "owner": "google",
             "repo": "brax",
-            "stars": 3243,
+            "stars": 3244,
             "topics": [
               "jax",
               "physics-simulation",
@@ -637,11 +637,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T05:00:27Z",
-            "open_issues": 360,
+            "last_commit": "2026-10-03T08:13:52Z",
+            "open_issues": 359,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8269,
+            "stars": 8271,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:11.436Z",
+    "last_updated": "2026-10-03T17:39:00.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome and popular robot learning environments",
