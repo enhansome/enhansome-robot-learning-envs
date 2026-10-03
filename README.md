@@ -20,7 +20,7 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                                                [RoboDesk](https://github.com/google-research/robodesk) ⚠️ Archived                                               |      MuJoCo      |                   ![RoboDesk](assets/robodesk.gif)                   |
 |                                             [BiGym](https://github.com/chernyadev/bigym) ⭐ 0 \| 🐛 0 \| 📅 2026-05-27                                            |      MuJoCo      |                      ![BiGym](assets/bigym.png)                      |
 |                          [HumanoidBench](https://github.com/carlosferrazza/humanoid-bench) ⭐ 798 \| 🐛 26 \| 🌐 Python \| 📅 2025-09-18                          |      MuJoCo      |             ![HumanoidBench](assets/humanoid-bench.jpeg)             |
-|                               [LocoMuJoCo](https://github.com/robfiras/loco-mujoco) ⭐ 1,471 \| 🐛 43 \| 🌐 Python \| 📅 2026-08-22                               |      MuJoCo      |                 ![LocoMuJoCo](assets/locomujoco.gif)                 |
+|                               [LocoMuJoCo](https://github.com/robfiras/loco-mujoco) ⭐ 1,472 \| 🐛 43 \| 🌐 Python \| 📅 2026-08-22                               |      MuJoCo      |                 ![LocoMuJoCo](assets/locomujoco.gif)                 |
 |                                             [RoboPianist](https://github.com/google-research/robopianist) ⚠️ Archived                                            |      MuJoCo      |                ![RoboPianist](assets/robopianist.gif)                |
 |                                                   [Adroit Hand](https://robotics.farama.org/envs/adroit_hand/)                                                   |      MuJoCo      |                  ![Adroit Hand](assets/adroit.jpeg)                  |
 |                                      [DexMV](https://github.com/yzqin/dexmv-sim) ⭐ 203 \| 🐛 7 \| 🌐 Python \| 📅 2023-09-29                                     |      MuJoCo      |                      ![DexMV](assets/dexmv.png)                      |
@@ -28,13 +28,13 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                                [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,372 \| 🐛 140 \| 🌐 Python \| 📅 2026-08-04                                |      SAPIEN      |                  ![ManiSkill](assets/maniskill.webp)                 |
 |                                 [DexArt](https://github.com/Kami-code/dexart-release) ⭐ 153 \| 🐛 0 \| 🌐 Python \| 📅 2026-05-11                                |      SAPIEN      |                     ![DexArt](assets/dexart.png)                     |
 |                              [DexDeform](https://github.com/sizhe-li/DexDeform) ⭐ 53 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2023-11-25                             |   PlasticineLab  |                  ![DexDeform](assets/dexdeform.gif)                  |
-|                                   [RLBench](https://github.com/stepjam/RLBench) ⭐ 1,823 \| 🐛 94 \| 🌐 Python \| 📅 2025-01-25                                   |    CoppeliaSim   |                    ![RLBench](assets/rlbench.png)                    |
+|                                   [RLBench](https://github.com/stepjam/RLBench) ⭐ 1,824 \| 🐛 94 \| 🌐 Python \| 📅 2025-01-25                                   |    CoppeliaSim   |                    ![RLBench](assets/rlbench.png)                    |
 |                         [Robot Colosseum](https://github.com/robot-colosseum/robot-colosseum) ⭐ 156 \| 🐛 5 \| 🌐 Python \| 📅 2025-03-03                        |    CoppeliaSim   |            ![Robot Colosseum](assets/robot-colosseum.gif)            |
 |                                                  [Ravens](https://github.com/google-research/ravens) ⚠️ Archived                                                 |     PyBullet     |                     ![Ravens](assets/ravens.png)                     |
 |                                       [CALVIN](https://github.com/mees/calvin) ⭐ 997 \| 🐛 52 \| 🌐 Python \| 📅 2025-09-08                                      |     PyBullet     |                     ![CALVIN](assets/calvin.png)                     |
 |                                  [VIMA-Bench](https://github.com/vimalabs/VIMABench) ⭐ 328 \| 🐛 8 \| 🌐 Python \| 📅 2023-09-26                                 |     PyBullet     |                  ![VIMA-Bench](assets/vimabench.gif)                 |
 |                          [Brax Control Suite](https://github.com/google/brax) ⭐ 3,243 \| 🐛 113 \| 🌐 Jupyter Notebook \| 📅 2026-09-29                          |       Brax       |                       ![Brax](assets/brax.gif)                       |
-|                             [NVIDIA Isaac Lab](https://github.com/isaac-sim/IsaacLab) ⭐ 8,269 \| 🐛 379 \| 🌐 Python \| 📅 2026-10-02                            |     Isaac Sim    |               ![NVIDIA Isaac Lab](assets/isaaclab.jpg)               |
+|                             [NVIDIA Isaac Lab](https://github.com/isaac-sim/IsaacLab) ⭐ 8,269 \| 🐛 360 \| 🌐 Python \| 📅 2026-10-03                            |     Isaac Sim    |               ![NVIDIA Isaac Lab](assets/isaaclab.jpg)               |
 |                             [TRANSIC-Envs](https://github.com/transic-robot/transic-envs) ⭐ 65 \| 🐛 0 \| 🌐 Python \| 📅 2024-09-05                             |     Isaac Gym    |               ![TRANSIC-Envs](assets/transic-envs.png)               |
 |                             [FurnitureBench](https://github.com/clvrai/furniture-bench) ⭐ 246 \| 🐛 13 \| 🌐 Python \| 📅 2025-03-31                             |     Isaac Gym    |             ![FurnitureBench](assets/furniture-bench.png)            |
 |                                         [NVIDIA Isaac Gym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) ⚠️ Archived                                         |     Isaac Gym    |           ![NVIDIA IsaacGym Benchmark](assets/isaacgym.png)          |
@@ -50,4 +50,4 @@ Feel Free to ⭐️ this repo for future updates 📲
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

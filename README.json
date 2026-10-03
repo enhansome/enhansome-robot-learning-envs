@@ -306,7 +306,7 @@
             "open_issues": 43,
             "owner": "robfiras",
             "repo": "loco-mujoco",
-            "stars": 1471,
+            "stars": 1472,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:59.143Z"
@@ -480,7 +480,7 @@
             "open_issues": 94,
             "owner": "stepjam",
             "repo": "RLBench",
-            "stars": 1823,
+            "stars": 1824,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:59.143Z"
@@ -637,8 +637,8 @@
             "id": 567038244,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T18:34:06Z",
-            "open_issues": 379,
+            "last_commit": "2026-10-03T05:00:27Z",
+            "open_issues": 360,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
             "stars": 8269,
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:44:46.698Z",
+    "last_updated": "2026-10-03T05:04:11.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome and popular robot learning environments",
