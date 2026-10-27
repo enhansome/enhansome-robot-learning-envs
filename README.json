@@ -19,7 +19,7 @@
             "open_issues": 145,
             "owner": "google-deepmind",
             "repo": "dm_control",
-            "stars": 4716,
+            "stars": 4717,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -48,7 +48,7 @@
             "open_issues": 145,
             "owner": "google-deepmind",
             "repo": "dm_control",
-            "stars": 4716,
+            "stars": 4717,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -128,7 +128,7 @@
             "open_issues": 124,
             "owner": "ARISE-Initiative",
             "repo": "robosuite",
-            "stars": 2684,
+            "stars": 2685,
             "topics": [
               "physics-simulation",
               "reinforcement-learning",
@@ -155,7 +155,7 @@
             "open_issues": 65,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1840,
+            "stars": 1843,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -181,7 +181,7 @@
             "open_issues": 108,
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2477,
+            "stars": 2482,
             "topics": [
               "benchmark",
               "imitation-learning",
@@ -285,7 +285,7 @@
             "open_issues": 26,
             "owner": "carlosferrazza",
             "repo": "humanoid-bench",
-            "stars": 802,
+            "stars": 803,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:59.143Z"
@@ -327,7 +327,7 @@
             "open_issues": 7,
             "owner": "google-research",
             "repo": "robopianist",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "bimanual",
               "dexterous-manipulation",
@@ -410,7 +410,7 @@
             "open_issues": 167,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3464,
+            "stars": 3470,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -615,7 +615,7 @@
             "open_issues": 115,
             "owner": "google",
             "repo": "brax",
-            "stars": 3252,
+            "stars": 3253,
             "topics": [
               "jax",
               "physics-simulation",
@@ -637,11 +637,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T18:40:43Z",
-            "open_issues": 419,
+            "last_commit": "2026-10-27T16:36:42Z",
+            "open_issues": 411,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8479,
+            "stars": 8496,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -715,7 +715,7 @@
             "open_issues": 158,
             "owner": "isaac-sim",
             "repo": "IsaacGymEnvs",
-            "stars": 2952,
+            "stars": 2951,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:59.143Z"
@@ -774,11 +774,11 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T06:18:00Z",
+            "last_commit": "2026-10-26T20:13:03Z",
             "open_issues": 314,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1780,
+            "stars": 1782,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:36:19.621Z",
+    "last_updated": "2026-10-27T19:01:00.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome and popular robot learning environments",
