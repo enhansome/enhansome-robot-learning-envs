@@ -125,10 +125,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-07-11T23:47:48Z",
-            "open_issues": 127,
+            "open_issues": 128,
             "owner": "ARISE-Initiative",
             "repo": "robosuite",
-            "stars": 2688,
+            "stars": 2689,
             "topics": [
               "physics-simulation",
               "reinforcement-learning",
@@ -155,7 +155,7 @@
             "open_issues": 65,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1853,
+            "stars": 1855,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -181,7 +181,7 @@
             "open_issues": 108,
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2502,
+            "stars": 2504,
             "topics": [
               "benchmark",
               "imitation-learning",
@@ -410,7 +410,7 @@
             "open_issues": 167,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3478,
+            "stars": 3477,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -637,11 +637,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T18:46:29Z",
-            "open_issues": 414,
+            "last_commit": "2026-10-31T08:16:26Z",
+            "open_issues": 405,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8532,
+            "stars": 8540,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -774,7 +774,7 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T18:39:26Z",
+            "last_commit": "2026-10-31T07:57:25Z",
             "open_issues": 311,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:54:48.653Z",
+    "last_updated": "2026-10-31T17:59:29.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome and popular robot learning environments",
