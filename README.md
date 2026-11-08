@@ -13,7 +13,7 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                  [DeepMind Control Generalization Benchmark 2](https://github.com/aalmuzairee/dmcgb2) ⭐ 22 \| 🐛 2 \| 🌐 Python \| 📅 2025-07-21                 |      MuJoCo      |   ![DeepMind Control Generalization Benchmark 2](assets/dmcgb2.gif)  |
 |                            [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,905 \| 🐛 23 \| 🌐 Python \| 📅 2026-10-09                           |      MuJoCo      |                 ![Meta-World](assets/meta-world.gif)                 |
 |                            [RoboSuite](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,704 \| 🐛 131 \| 🌐 Python \| 📅 2026-07-11                            |      MuJoCo      |                  ![RoboSuite](assets/robosuite.png)                  |
-|                                  [RoboCasa](https://github.com/robocasa/robocasa) ⭐ 1,869 \| 🐛 65 \| 🌐 Python \| 📅 2026-10-30                                 |      MuJoCo      |                   ![RoboCasa](assets/robocasa.jpeg)                  |
+|                                  [RoboCasa](https://github.com/robocasa/robocasa) ⭐ 1,871 \| 🐛 65 \| 🌐 Python \| 📅 2026-10-30                                 |      MuJoCo      |                   ![RoboCasa](assets/robocasa.jpeg)                  |
 |                       [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) ⭐ 2,521 \| 🐛 108 \| 🌐 Jupyter Notebook \| 📅 2025-03-15                      |      MuJoCo      |                     ![LIBERO](assets/libero.gif)                     |
 |                                  [RoboHive](https://github.com/vikashplus/robohive) ⭐ 632 \| 🐛 24 \| 🌐 Python \| 📅 2026-09-22                                 |      MuJoCo      |                   ![RoboHive](assets/robohive.png)                   |
 |                                                [Franka Kitchen](https://robotics.farama.org/envs/franka_kitchen/)                                                |      MuJoCo      |             ![Franka Kitchen](assets/franka-kitchen.gif)             |
@@ -24,7 +24,7 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                                             [RoboPianist](https://github.com/google-research/robopianist) ⚠️ Archived                                            |      MuJoCo      |                ![RoboPianist](assets/robopianist.gif)                |
 |                                                   [Adroit Hand](https://robotics.farama.org/envs/adroit_hand/)                                                   |      MuJoCo      |                  ![Adroit Hand](assets/adroit.jpeg)                  |
 |                                      [DexMV](https://github.com/yzqin/dexmv-sim) ⭐ 207 \| 🐛 7 \| 🌐 Python \| 📅 2023-09-29                                     |      MuJoCo      |                      ![DexMV](assets/dexmv.png)                      |
-|                        [Safety-Gymnasium](https://github.com/PKU-Alignment/safety-gymnasium) ⭐ 600 \| 🐛 16 \| 🌐 Python \| 📅 2026-07-21                        |      MuJoCo      |           ![Safety-Gymnasium](assets/safety-gymnasium.gif)           |
+|                        [Safety-Gymnasium](https://github.com/PKU-Alignment/safety-gymnasium) ⭐ 601 \| 🐛 16 \| 🌐 Python \| 📅 2026-07-21                        |      MuJoCo      |           ![Safety-Gymnasium](assets/safety-gymnasium.gif)           |
 |                                [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,498 \| 🐛 167 \| 🌐 Python \| 📅 2026-08-04                                |      SAPIEN      |                  ![ManiSkill](assets/maniskill.webp)                 |
 |                                 [DexArt](https://github.com/Kami-code/dexart-release) ⭐ 153 \| 🐛 0 \| 🌐 Python \| 📅 2026-05-11                                |      SAPIEN      |                     ![DexArt](assets/dexart.png)                     |
 |                              [DexDeform](https://github.com/sizhe-li/DexDeform) ⭐ 55 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2023-11-25                             |   PlasticineLab  |                  ![DexDeform](assets/dexdeform.gif)                  |
@@ -34,13 +34,13 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                                      [CALVIN](https://github.com/mees/calvin) ⭐ 1,002 \| 🐛 52 \| 🌐 Python \| 📅 2025-09-08                                     |     PyBullet     |                     ![CALVIN](assets/calvin.png)                     |
 |                                  [VIMA-Bench](https://github.com/vimalabs/VIMABench) ⭐ 330 \| 🐛 8 \| 🌐 Python \| 📅 2023-09-26                                 |     PyBullet     |                  ![VIMA-Bench](assets/vimabench.gif)                 |
 |                          [Brax Control Suite](https://github.com/google/brax) ⭐ 3,257 \| 🐛 118 \| 🌐 Jupyter Notebook \| 📅 2026-10-20                          |       Brax       |                       ![Brax](assets/brax.gif)                       |
-|                             [NVIDIA Isaac Lab](https://github.com/isaac-sim/IsaacLab) ⭐ 8,588 \| 🐛 405 \| 🌐 Python \| 📅 2026-11-07                            |     Isaac Sim    |               ![NVIDIA Isaac Lab](assets/isaaclab.jpg)               |
+|                             [NVIDIA Isaac Lab](https://github.com/isaac-sim/IsaacLab) ⭐ 8,595 \| 🐛 414 \| 🌐 Python \| 📅 2026-11-08                            |     Isaac Sim    |               ![NVIDIA Isaac Lab](assets/isaaclab.jpg)               |
 |                             [TRANSIC-Envs](https://github.com/transic-robot/transic-envs) ⭐ 65 \| 🐛 0 \| 🌐 Python \| 📅 2024-09-05                             |     Isaac Gym    |               ![TRANSIC-Envs](assets/transic-envs.png)               |
 |                             [FurnitureBench](https://github.com/clvrai/furniture-bench) ⭐ 245 \| 🐛 14 \| 🌐 Python \| 📅 2025-03-31                             |     Isaac Gym    |             ![FurnitureBench](assets/furniture-bench.png)            |
 |                                         [NVIDIA Isaac Gym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) ⚠️ Archived                                         |     Isaac Gym    |           ![NVIDIA IsaacGym Benchmark](assets/isaacgym.png)          |
 |                                         [PixMC](https://github.com/ir413/mvp) ⭐ 244 \| 🐛 9 \| 🌐 Python \| 📅 2023-04-01                                        |     Isaac Gym    |                      ![PixMC](assets/pixmc.png)                      |
 |                                    [SoftGym](https://github.com/Xingyu-Lin/softgym) ⭐ 357 \| 🐛 16 \| 🌐 C++ \| 📅 2022-11-14                                    |    NVIDIA FleX   |                    ![SoftGym](assets/softgym.gif)                    |
-|                              [OmniGibson](https://github.com/StanfordVL/OmniGibson) ⭐ 1,796 \| 🐛 315 \| 🌐 Python \| 📅 2026-11-07                              | NVIDIA Omniverse |                 ![OmniGibson](assets/omni-gibson.png)                |
+|                              [OmniGibson](https://github.com/StanfordVL/OmniGibson) ⭐ 1,796 \| 🐛 317 \| 🌐 Python \| 📅 2026-11-07                              | NVIDIA Omniverse |                 ![OmniGibson](assets/omni-gibson.png)                |
 
 ## Notes
 
@@ -50,4 +50,4 @@ Feel Free to ⭐️ this repo for future updates 📲
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

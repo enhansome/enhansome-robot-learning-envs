@@ -155,7 +155,7 @@
             "open_issues": 65,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1869,
+            "stars": 1871,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -380,7 +380,7 @@
             "open_issues": 16,
             "owner": "PKU-Alignment",
             "repo": "safety-gymnasium",
-            "stars": 600,
+            "stars": 601,
             "topics": [
               "constraint-rl",
               "constraint-satisfaction-problem",
@@ -637,11 +637,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T15:13:13Z",
-            "open_issues": 405,
+            "last_commit": "2026-11-08T08:08:08Z",
+            "open_issues": 414,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8588,
+            "stars": 8595,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -774,8 +774,8 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T17:03:43Z",
-            "open_issues": 315,
+            "last_commit": "2026-11-07T18:32:38Z",
+            "open_issues": 317,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
             "stars": 1796,
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:21:19.207Z",
+    "last_updated": "2026-11-08T18:32:30.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome and popular robot learning environments",
