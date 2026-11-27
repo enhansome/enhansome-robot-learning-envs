@@ -15,7 +15,7 @@
             "id": 115744122,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T17:00:44Z",
+            "last_commit": "2026-11-27T21:00:57Z",
             "open_issues": 148,
             "owner": "google-deepmind",
             "repo": "dm_control",
@@ -44,7 +44,7 @@
             "id": 115744122,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T17:00:44Z",
+            "last_commit": "2026-11-27T21:00:57Z",
             "open_issues": 148,
             "owner": "google-deepmind",
             "repo": "dm_control",
@@ -99,7 +99,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-23T21:12:43Z",
-            "open_issues": 25,
+            "open_issues": 22,
             "owner": "Farama-Foundation",
             "repo": "Metaworld",
             "stars": 1910,
@@ -124,11 +124,11 @@
             "id": 154626012,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T20:12:34Z",
+            "last_commit": "2026-11-27T07:41:03Z",
             "open_issues": 138,
             "owner": "ARISE-Initiative",
             "repo": "robosuite",
-            "stars": 2723,
+            "stars": 2725,
             "topics": [
               "physics-simulation",
               "reinforcement-learning",
@@ -181,7 +181,7 @@
             "open_issues": 108,
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2577,
+            "stars": 2582,
             "topics": [
               "benchmark",
               "imitation-learning",
@@ -306,7 +306,7 @@
             "open_issues": 40,
             "owner": "robfiras",
             "repo": "loco-mujoco",
-            "stars": 1503,
+            "stars": 1504,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:59.143Z"
@@ -410,7 +410,7 @@
             "open_issues": 172,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3551,
+            "stars": 3553,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -637,11 +637,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T09:58:20Z",
-            "open_issues": 404,
+            "last_commit": "2026-11-27T14:16:44Z",
+            "open_issues": 403,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8731,
+            "stars": 8739,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:38:26.794Z",
+    "last_updated": "2026-11-27T22:23:10.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome and popular robot learning environments",
